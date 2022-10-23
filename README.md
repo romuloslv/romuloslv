@@ -24,6 +24,11 @@ Here, you will find some TLDR(sometimes) on how to get a fast and dirty infra to
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/ingress/ingress-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" />
 <br /><br /><p>
 
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
@@ -42,6 +47,12 @@ Here, you will find some TLDR(sometimes) on how to get a fast and dirty infra to
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" />
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" 
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
 
 <br clear="all" />
