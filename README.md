@@ -29,6 +29,7 @@ Here, you will find some TLDR(sometimes) on how to get a fast and dirty infra to
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" />
 <br /><br /><p>
 
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
