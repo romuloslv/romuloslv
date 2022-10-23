@@ -50,7 +50,7 @@ Here, you will find some TLDR(sometimes) on how to get a fast and dirty infra to
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" 
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" />
