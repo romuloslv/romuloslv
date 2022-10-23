@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rômulo</h1>
 
-I'm passionate about technology and how it affects us for a post homo sapiens world. Here, you will find some TLDR(sometimes) on how to get a fast and dirty infra to some stacks that make up my day to day as a DevOps Engineer. In general, i build deployment pipelines, monitor the application and take care of its resilience in the main public clouds on the market.
+I'm passionate about technology and how it affects us for a post homo sapiens world. Here, you will find some TL;DR(sometimes) on how to get a fast and dirty infra to some stacks that make up my day to day as a DevOps Engineer. In general, i build deployment pipelines, monitor the application and take care of its resilience in the main public clouds on the market.
 
   ---
 
