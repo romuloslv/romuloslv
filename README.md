@@ -6,7 +6,15 @@ I'm passionate about technology and how it affects us for a post homo sapiens wo
 
 ### Languages and Tools
 
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<img
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+min-width="200px"
+max-width="200px"
+width="300px"
+align="right"
+alt="Computador iuriCode"
+/>
+
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
@@ -27,10 +35,8 @@ I'm passionate about technology and how it affects us for a post homo sapiens wo
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" />
-<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" />
+<img align="left" width="35px" src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" />
-<br /><br /><p>
-
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
@@ -54,5 +60,4 @@ I'm passionate about technology and how it affects us for a post homo sapiens wo
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" />
 <img align="left" width="35px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
-
 <br clear="all" />
